@@ -1,6 +1,6 @@
 package day01;
 
-public class Demo3 {
+public class Demo03 {
     public static void main(String[] args) {
         //打印九九乘法表
         int i=0,j=0;
